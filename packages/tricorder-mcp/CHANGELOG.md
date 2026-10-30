@@ -9,7 +9,7 @@ and this project adheres to the [PVP](https://pvp.haskell.org/).
 
 ### Fixed
 
-- `start_daemon`, `stop_daemon` and `restart_daemon` now invoke `tricorder daemon {start,stop,restart}` instead of the removed top-level `start`, `stop` and `restart` subcommands. Non-breaking.
+- `start_daemon`, `stop_daemon` and `restart_daemon` now invoke `tricorder daemon {start,stop,restart}` instead of the removed top-level `start`, `stop` and `restart` subcommands. Non-breaking. (Thanks @michael-xavier-well)
 
 ## [1.0.0.0] - 2026-10-29
 
